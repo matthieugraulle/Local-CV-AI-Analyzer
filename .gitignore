@@ -1,0 +1,7 @@
+# Ne pas uploader mon CV perso
+*.pdf
+
+# Ne pas uploader les dossiers Python inutiles
+__pycache__/
+.ipynb_checkpoints/
+venv/
